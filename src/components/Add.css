@@ -1,0 +1,13 @@
+.labels{
+    color: skyblue
+}
+
+.validationMsg{
+    color: red
+}
+
+select.input-validation-error { border-color: red }
+
+error-input {
+    border : 1px solid #ff0000;
+}
